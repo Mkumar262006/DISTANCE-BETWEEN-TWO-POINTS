@@ -10,7 +10,7 @@ Import the math function
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
-Do this is sqrt fumction
+Do this is with sqrt fumction
 ### Step 5: 
 Print the value
 ### PROGRAM:
@@ -28,8 +28,8 @@ print("%.2f"%d)
 
 
 ### OUTPUT:
-![Output](./distance.png)
 
+![Output](./distance-1.png)
 
 ### RESULT:
 Thus the two distance between two points are calculated
